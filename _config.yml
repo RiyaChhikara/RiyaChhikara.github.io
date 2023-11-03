@@ -1,15 +1,14 @@
 title: Riya Chhikara # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Science Trainer 
-  LSE Digital Skills Lab
+  Data Science Trainer at LSE Digital Skills Lab, with a master's degree in Data Science from London School of Economics. Previously a data consultant with 2+ years of commercial experience in analytics. 
   <br><br>
-  Msc Data Science 
-  London School of Economics
+  Currently developing open source data projects.
   <br><br>
   <a href="https://www.linkedin.com/in/riya-chhikara/">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+colors:
+  crimson: '#900C3F'
