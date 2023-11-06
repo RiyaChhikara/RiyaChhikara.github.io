@@ -49,7 +49,7 @@ K-Means Clustering
 
 --- 
 
-## Skills-based projects 
+### Skills-based projects 
 A selection of smaller projects demonstrating specific data science and Python skills 
 
 - [Python Automation in emails for LSE 180 Degrees COnsulting Society using smtplib](#)
