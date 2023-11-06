@@ -1,4 +1,8 @@
 ## Selected projects in data science, machine learning and computer vision
+---
+### Speech to text recognition 
+
+This is the current project I am working on. 
 
 ---
 
@@ -37,10 +41,19 @@ I webscraped the reviews from the Amazon, cleaned them using regex specification
 [View code on Colab]
 
 ---
-Classical Data Science 
+### Classic Algorithms 
 
 Hierarchical Clustering [View code on Colab](https://colab.research.google.com/drive/1_MYj3caH_BZQ7Ja-fRK4eYNItR_GkAxB?usp=sharing)
 
 K-Means Clustering 
+
+--- 
+
+## Skills-based projects 
+A selection of smaller projects demonstrating specific data science and Python skills 
+
+- [Python Automation in emails for LSE 180 Degrees COnsulting Society using smtplib](#)
+- [Built Automated games using Selenium in Python](#)
+- [Completed a 100 days Python challenge with daily coding](#)
 
 
