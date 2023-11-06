@@ -75,7 +75,7 @@ A selection of smaller projects demonstrating specific data science and Python s
 - [Built Automated games using Selenium in Python](#)
 - [Completed a 100 days Python challenge with daily coding](#)
 
-  <img src="images/game_1.png" width = "200">    <img src="images/game_2.png" width = "200">    <img src="images/game_3.png" width = "200">
+  <img src="images/game_1.png" width = "100">    <img src="images/game_2.png" width = "100">    <img src="images/game_3.png" width = "100">
 
 
 
