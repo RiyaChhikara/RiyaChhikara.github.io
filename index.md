@@ -4,8 +4,8 @@
 
 This is the current project I am working on. 
 
-<img src="images/audio_3.png" width = "200">
-<img src="images/audio_to_text.png" width = "200">
+<img src="images/audio_3.png" width = "300">
+<img src="images/audio_to_text.png" width = "300">
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#)[![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 
@@ -15,7 +15,7 @@ This is the current project I am working on.
 
 For each image uploaded, Top 5 labels for the images are displayed with their probabilities. In this project, I used VGG16 for classification which is trained on ImageNet dataset.
 
-<img src="images/interactive_1.jpg" width = "200">    <img src="images/interactive_2.jpg" width = "200">
+<img src="images/interactive_1.jpg" width = "300">    <img src="images/interactive_2.jpg" width = "300">
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 
@@ -27,7 +27,7 @@ For each image uploaded, Top 5 labels for the images are displayed with their pr
 
 Explanation 
 
-<img src="images/image_classification.png" width = "200">
+<img src="images/image_classification.png" width = "300">
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](#)
 
@@ -51,7 +51,7 @@ I webscraped the reviews from the Amazon, cleaned them using regex specification
 
 Explanation 
 
-<img src="images/COVID_R.png" width = "200">
+<img src="images/COVID_R.png" width = "300">
 
 [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) [![](https://img.shields.io/badge/R-white?logo=R)](#) 
 
@@ -60,7 +60,7 @@ Explanation
 ---
 ### Classic Algorithms 
 
-<img src="images/Fraud_check.png" width = "200">
+<img src="images/Fraud_check.png" width = "400">
 
 Hierarchical Clustering  [View code on Colab](https://colab.research.google.com/drive/1_MYj3caH_BZQ7Ja-fRK4eYNItR_GkAxB?usp=sharing)
 
