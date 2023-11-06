@@ -39,7 +39,7 @@ Explanation
 
 I webscraped the reviews from the Amazon, cleaned them using regex specifications, tokenized the text and generated a wordcloud. Finally plotted the sentiments using matplotlib. Used Beautifulsoup for webscraping. lemmatization, tokenization.
 
-<img src="images/wordcloud.jpg" width = "200">
+<img src="images/wordcloud.png" width = "300">
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
@@ -60,7 +60,7 @@ Explanation
 ---
 ### Classic Algorithms 
 
-<img src="images/Fraud_Check.png" width = "200">
+<img src="images/Fraud_check.png" width = "200">
 
 Hierarchical Clustering  [View code on Colab](https://colab.research.google.com/drive/1_MYj3caH_BZQ7Ja-fRK4eYNItR_GkAxB?usp=sharing)
 
