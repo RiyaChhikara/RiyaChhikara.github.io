@@ -30,7 +30,7 @@ I webscraped the reviews from the Amazon, cleaned them using regex specification
 
 [View code on Colab](https://colab.research.google.com/drive/13BdIshN7T6oLoTnMHFib8pYzlMyFkVFp?usp=sharing)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)]
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 ---
 
@@ -43,7 +43,7 @@ I webscraped the reviews from the Amazon, cleaned them using regex specification
 ---
 ### Classic Algorithms 
 
-Hierarchical Clustering [View code on Colab](https://colab.research.google.com/drive/1_MYj3caH_BZQ7Ja-fRK4eYNItR_GkAxB?usp=sharing)
+Hierarchical Clustering  [View code on Colab](https://colab.research.google.com/drive/1_MYj3caH_BZQ7Ja-fRK4eYNItR_GkAxB?usp=sharing)
 
 K-Means Clustering 
 
