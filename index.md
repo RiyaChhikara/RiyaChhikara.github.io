@@ -1,5 +1,5 @@
 ## Selected projects in data science, machine learning and computer vision
----
+
 ### Speech to text recognition 
 
 This is the current project I am working on. 
