@@ -13,6 +13,8 @@ For each image uploaded, Top 5 labels for the images are displayed with their pr
 ---
 ### Image Classification using PyTorch on CIFAR-10 datset
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)[![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
+
 [View code on Colab](https://colab.research.google.com/drive/19RLDS4zTxGW7AOs_URwUd7XhOTd_guvO?usp=sharing)
 ---
 
