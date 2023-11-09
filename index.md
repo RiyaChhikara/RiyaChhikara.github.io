@@ -1,6 +1,6 @@
 ## Selected projects in data science, machine learning and computer vision
 
-### Speech to text recognition 
+### Voice Commands Decoded: Building an Intelligent Speech-to-Text Model
 
 Developing a TensorFlow-based audio classification model using the mini Speech Commands dataset. In this, I'm training a convolutional neural network (CNN) model for classifying spoken commands, and then evaluate the model's performance.
 
@@ -11,7 +11,7 @@ Developing a TensorFlow-based audio classification model using the mini Speech C
 
 ---
 
-### Interactive Image Classification Tool using VGG16
+###  Know what's in your image
 
 For each image uploaded, Top 5 labels for the images are displayed with their probabilities. In this project, I used VGG16 for classification which is trained on ImageNet dataset.
 
@@ -23,7 +23,7 @@ For each image uploaded, Top 5 labels for the images are displayed with their pr
 
 ---
 
-### Know what's in your image
+### Deep Learning for Image Classification
 
 Implemented an image classification project using PyTorch on the CIFAR-10 dataset. Defined a convolutional neural network (CNN), specified the loss function and optimizer, and trained the model on the training set.
 
@@ -35,7 +35,7 @@ Implemented an image classification project using PyTorch on the CIFAR-10 datase
 
 ---
 
-### NLP: Sentiment Analysis on India's Foreign Affairs Minister's first Book 
+### Unveiling Foreign Minister's Book Vibes
 
 I web scraped Amazon reviews, applied regex for data cleaning, and used Beautiful Soup for extracting information. Implemented lemmatization and tokenization techniques to process the text data, followed by generating a word cloud for visualization. Analyzed the plotted sentiment analysis based on the processed reviews.
 
@@ -47,31 +47,37 @@ I web scraped Amazon reviews, applied regex for data cleaning, and used Beautifu
 
 ---
 
-### COVID data visualization
+### Visualizing Global COVID-19 Policy Responses in R
 
 I analyzed Covid-19 policy responses using the OxCGRT study's data, visualizing the global implementation of stay-at-home recommendations from 2020 to 2022 with ggplot2. The data underwent processing to simplify scales for stay-at-home directives and income support. The resulting visualization offers insights into the extent of these measures across regions, enabling a comparative analysis of restrictions and income support implementation during the specified period.
 
 <img src="images/COVID_R.png" width = "300">
 
-[![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) [![](https://img.shields.io/badge/R-white?logo=R)](#) 
+[![](https://img.shields.io/badge/R-white?logo=R)](#) 
 
 [View code on Colab]
 
 ---
-### Classic Algorithms 
+## Data in real-life
 
-<img src="images/Fraud_check.png" width = "400">
+### Simplified Charity Outreach Pipeline: Helped LSE 180 Degrees Consulting Society
 
-Hierarchical Clustering  [View code on Colab](https://colab.research.google.com/drive/1_MYj3caH_BZQ7Ja-fRK4eYNItR_GkAxB?usp=sharing)
+Wrote a Python script that automates the outreach process to charities. Using smtplib, the society was able to send personalized emails with email attachments to 100+ charities with one click. The script extracted data from an Excel file, used Gmail for sending emails, and finally stored the data for sent emails in a CSV file. 
 
-K-Means Clustering 
+---
 
---- 
+### ColorVision Assist: Enhancing Visual Accessibility for Red-Blindnes
 
-### Skills-based projects 
-A selection of smaller projects demonstrating specific data science and Python skills 
+In this project, I noticed that my friend struggled to see red colors due to red-blindness (protanopia). So, I decided to use computer vision to help him. I created a prototype that changes images to colors he can see better by using cv2 library.
+
+<img src="images/download.png" width = "300">
+
+---
+
+
+
+### Other skills based Tasks
 - [As Head of Education, Data Science Society conduct fun workshops on Python](https://pythonworkshop.my.canva.site/)
-- [Python Automation in emails for LSE 180 Degrees Consulting Society using smtplib](#)
 - [Built Automated games using Selenium in Python](#)
 - [Completed a 100 days Python challenge with daily coding](#)
 
