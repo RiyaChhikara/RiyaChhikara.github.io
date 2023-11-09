@@ -7,6 +7,7 @@ In this project, I noticed that my friend struggled to see red colors due to red
 <img src="images/download.png" width = "300">
 
 ---
+
 ### Simplified Charity Outreach Pipeline: Helped LSE 180 Degrees Consulting Society
 
 Wrote a Python script that automates the outreach process to charities. Using smtplib, the society was able to send personalized emails with email attachments to 100+ charities with one click. The script extracted data from an Excel file, used Gmail for sending emails, and finally stored the data for sent emails in a CSV file. 
@@ -82,7 +83,8 @@ I analyzed Covid-19 policy responses using the OxCGRT study's data, visualizing 
 
 [View code on GitHub](https://github.com/RiyaChhikara/Projects_with_API/tree/main)
 
-## Other Data Based Tasks
+### Other Data Based Tasks
+- [Conduct workshops for Python, R, SQL at LSE Digital Skills Lab](https://info.lse.ac.uk/current-students/digital-skills-lab)
 - [As the Head of Education, LSE Data Science Society conduct fun workshops on Python, AI and ML](https://pythonworkshop.my.canva.site/)
 - [Built Automated games using Selenium in Python](#)
 - [Completed a 100 days Python challenge with daily coding](#)
