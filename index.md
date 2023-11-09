@@ -2,7 +2,7 @@
 
 ### Speech to text recognition 
 
-This is the current project I am working on. 
+Developing a TensorFlow-based audio classification model using the mini Speech Commands dataset. In this, I'm training a convolutional neural network (CNN) model for classifying spoken commands, and then evaluate the model's performance.
 
 <img src="images/audio_3.png" width = "300">
 <img src="images/audio_to_text.png" width = "300">
@@ -23,9 +23,9 @@ For each image uploaded, Top 5 labels for the images are displayed with their pr
 
 ---
 
-### Image Classification using PyTorch on CIFAR-10 datset
+### Know what's in your image
 
-Explanation 
+Implemented an image classification project using PyTorch on the CIFAR-10 dataset. Defined a convolutional neural network (CNN), specified the loss function and optimizer, and trained the model on the training set.
 
 <img src="images/image_classification.png" width = "300">
 
@@ -37,7 +37,7 @@ Explanation
 
 ### NLP: Sentiment Analysis on India's Foreign Affairs Minister's first Book 
 
-I webscraped the reviews from the Amazon, cleaned them using regex specifications, tokenized the text and generated a wordcloud. Finally plotted the sentiments using matplotlib. Used Beautifulsoup for webscraping. lemmatization, tokenization.
+I web scraped Amazon reviews, applied regex for data cleaning, and used Beautiful Soup for extracting information. Implemented lemmatization and tokenization techniques to process the text data, followed by generating a word cloud for visualization. Analyzed the plotted sentiment analysis based on the processed reviews.
 
 <img src="images/wordcloud.png" width = "300">
 
@@ -49,7 +49,7 @@ I webscraped the reviews from the Amazon, cleaned them using regex specification
 
 ### COVID data visualization
 
-Explanation 
+I analyzed Covid-19 policy responses using the OxCGRT study's data, visualizing the global implementation of stay-at-home recommendations from 2020 to 2022 with ggplot2. The data underwent processing to simplify scales for stay-at-home directives and income support. The resulting visualization offers insights into the extent of these measures across regions, enabling a comparative analysis of restrictions and income support implementation during the specified period.
 
 <img src="images/COVID_R.png" width = "300">
 
