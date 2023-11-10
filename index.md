@@ -14,6 +14,7 @@ Wrote a Python script that automates the outreach process to charities. Using sm
 
 ---
 
+
 ## Selected projects in data science, machine learning and computer vision
 
 ### Voice Commands Decoded: Building an Intelligent Speech-to-Text Model
@@ -90,6 +91,9 @@ I analyzed Covid-19 policy responses using the OxCGRT study's data, visualizing 
 - [Completed a 100 days Python challenge with daily coding](#)
 
   <img src="images/game_1.png" width = "100">    <img src="images/game_2.png" width = "100">    <img src="images/game_3.png" width = "100">
+
+### Coursework in MSc: 
+ST449 AI | MY474  ML | ST456 Deep Learning | ST446 Distributed Computing for Big Data | MY472 Cloud Computing | MY470 Computer Programming
 
 
 
